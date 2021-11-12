@@ -1,0 +1,255 @@
+
+
+form{
+  margin-top: 100px;
+}
+body{
+  font-family: 'Varela Round', sans-serif !important
+  ;
+  color: #202020;
+
+}
+
+
+.nav{
+  font-family: 'Varela Round', sans-serif
+
+}
+#foto {
+  width: 500px;
+  padding: 3%;
+  margin-top: 40px;
+}
+
+.logo {
+  margin-bottom: -15px;
+  margin-top: -5px;
+  width: 170px;
+}
+
+.navbar {
+  font-size: 20px;
+}
+
+.backg {
+  background-color: #d32e2e;
+  background-image: linear-gradient(180deg, #d32e2e 0%, #ffffff 100%);
+}
+
+.backgicon {
+  background-color: rgb(236, 236, 236);
+}
+
+.backgicon p {
+  font-size: 18px;
+
+  align-self: center;
+  font-weight: 500;
+  padding-left: 7%;
+}
+.backgicon h5 {
+  font-weight: 800;
+  font-size: 16px;
+  color: rgb(151, 45, 45);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.backgicon svg {
+  margin: 15px;
+}
+
+.oferta {
+  width: 750px;
+  
+
+  margin-top: 50px;
+}
+
+.telefono2{
+  width: 300px;
+
+}
+
+.dw {
+  position: fixed;
+  bottom: -4px;
+  right: 10px;
+  z-index: 10;
+}
+
+.w {
+  z-index: 999;
+  width: 80px;
+  padding: 3%;
+}
+
+.telefono {
+  width: 500px;
+  margin-top: 100px;
+}
+
+.software {
+  background-color: #d32e2e;
+  background-image: linear-gradient(0deg, #d32e2e 0%, #ffffff 100%);
+}
+
+.software2 {
+    background-color: #d32e2e;
+    background-image: linear-gradient(180deg, #d32e2e 0%, #ffffff 100%);
+  }
+
+
+  .software3 {
+    background-color: #d32e2e;
+    background-image: linear-gradient(90deg, #d32e2e 0%, #ffffff 100%);
+  }
+
+
+  .cuadroOferta{
+    background-color: #ffffff;
+    background-image: linear-gradient(180deg, #ffffff ,#cacaca,#c8c8c8, #ffffff );}
+
+.fa{color: yellow;}
+
+
+.formulario{
+  background-color: transparent;
+  background-image: linear-gradient(90deg, #c3c3c3bd , transparent );
+}
+
+
+@media (max-width: 1000px) {
+ #foto{
+   width: 700px;
+ 
+   margin: -70px;
+ }
+
+
+.backg h1{
+
+  font-size: 40px;
+}
+
+.backg h5{font-size: 40px;}
+
+ .oferta{
+  width: 900px;
+  margin-top:-220px;
+}
+
+.cuadroOferta{
+  min-width: 100%;
+  margin-top: 50px;
+ 
+}
+
+
+.telefono{
+  width: 600px;
+  
+  margin: -50px;
+}
+
+.telefono2{
+ 
+  width: 600px;
+  
+
+ 
+}
+    body{
+    
+    font-size:30px
+}
+  
+  .w{
+  width: 300px;
+}
+  
+   .detalles p,h3,h4,h5{
+   font-size:30px 
+  }
+
+  .detalles h5{
+    font-size: 30px;
+  }
+
+  .detalles h4{
+    font-size: 30px;
+  }
+
+  .detalles svg{
+    width: 100px;
+    height: 100px;
+    color: #585858;
+  }
+  
+  .card {
+  min-width: 700px;
+  border: none;
+  box-shadow: 5px 8px 8px 2px #cacaca;
+  border-radius: 12px;
+  
+}
+  
+  .card p,h1,h2,h3{font-size:40px}
+  .card small{font-size: 30px;}
+.card span{font-size: 30px;}
+
+  .logo{
+  width:300px}
+  
+  
+  .navbar-toggler{
+
+        width:150px;
+        height: 150px;
+
+}
+  
+  
+  .button2{
+  width:400px;
+    height:100px
+    
+  }
+  
+  html{
+  
+    font-size:50px;
+  
+  }
+  
+  input{
+
+height: 150px;
+
+}
+  
+  input{
+  height:150px}
+  
+  
+  .navbar {
+  font-size: 40px;
+}
+  
+  
+  
+  .padding{padding:0px}
+
+
+  .input-container {
+    width: 100%
+}
+.styled-input.wide { 
+  width: 850px;
+  max-width: 100%;
+}
+
+  
+}
+
+
+
+
